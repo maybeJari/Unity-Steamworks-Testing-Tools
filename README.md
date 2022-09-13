@@ -42,7 +42,7 @@ Make sure you are in the play mode when using these tools.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
