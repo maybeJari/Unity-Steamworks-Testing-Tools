@@ -9,7 +9,7 @@ using Sirenix.OdinInspector;
 public class InventoryTester : MonoBehaviour
 {
     [Title("Inventory Tester")]
-    [InfoBox("Generate and Remove Items on your Steam Inventory.")]
+    [InfoBox("Generate and Remove Items in your Steam Inventory.")]
     public int itemID = 100;
     public int itemAmount = 1;
 
