@@ -29,6 +29,43 @@ Make sure you are in the play mode when using these tools.
 - [Facepunch Steamworks Wrapper](https://wiki.facepunch.com/steamworks/)
 - [Odin Inspector Plugin](https://odininspector.com)
 
+Make sure to correctly create your SteamIntegration Script.
+<code>
+using System;
+using System.Diagnostics;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Debug = UnityEngine.Debug;
+using Steamworks;
+
+public class SteamIntegration : MonoBehaviour
+{
+    void Start()
+    {
+        try
+        {
+            SteamClient.Init(appid, true);
+        }
+        catch (Exception e)
+        {
+            Debug.Log(e);
+        }
+        LoadItemDefinitions();
+    }
+
+    void Update()
+    {
+        SteamClient.RunCallbacks();
+    }
+
+    void OnApplicationQuit()
+    {
+        SteamClient.Shutdown();
+    }
+}
+</code>
+
 <!-- IMAGES -->
 
 ## Images
