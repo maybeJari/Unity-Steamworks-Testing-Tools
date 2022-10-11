@@ -37,8 +37,8 @@ Make sure to correctly set up your SteamIntegration Script.
 ## Images
 
 <div align="center">
-    <img src="img/achievement.png" alt="Achievement Tester">
-  </a>
+    <img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029306609379328030/Unity_sPY9T9kuDt.png">
+    <img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029306838262489139/OmfbEdy0kf.png">
 </div>
 
 <!-- LICENSE -->
