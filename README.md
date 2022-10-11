@@ -30,7 +30,7 @@ Make sure you are in the play mode when using these tools.
 - [Odin Inspector Plugin](https://odininspector.com)
 
 Make sure to correctly set up your SteamIntegration Script.
-<img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029303620002398208/devenv_ik8JKSn9KZ.png">
+<img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029306274371878952/devenv_Y3y8j7zUD0.png">
 
 <!-- IMAGES -->
 
