@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="img/projectlogo.png" alt="Project Logo">
+    <img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029307308544622592/unknown.png">
   </a>
 </div>
 
