@@ -29,9 +29,8 @@ Make sure you are in the play mode when using these tools.
 - [Facepunch Steamworks Wrapper](https://wiki.facepunch.com/steamworks/)
 - [Odin Inspector Plugin](https://odininspector.com)
 
-Make sure to correctly create your SteamIntegration Script.
-<code>
-using System;
+Make sure to correctly set up your SteamIntegration Script.
+<code>using System;
 using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
@@ -63,8 +62,7 @@ public class SteamIntegration : MonoBehaviour
     {
         SteamClient.Shutdown();
     }
-}
-</code>
+}</code>
 
 <!-- IMAGES -->
 
