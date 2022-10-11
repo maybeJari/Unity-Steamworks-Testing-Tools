@@ -31,7 +31,6 @@ Make sure you are in the play mode when using these tools.
 
 Make sure to correctly set up your SteamIntegration Script.
 <img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029303620002398208/devenv_ik8JKSn9KZ.png">
-- [Download Code](https://pastebin.com/dl/zkgn8hMB)
 
 <!-- IMAGES -->
 
