@@ -25,7 +25,6 @@ Make sure you are in the play mode when using these tools.
 
 ## Prerequisites
 
-- [Steamworks SDK](https://partner.steamgames.com/downloads/list)
 - [Facepunch Steamworks Wrapper](https://wiki.facepunch.com/steamworks/)
 - [Odin Inspector Plugin](https://odininspector.com)
 
