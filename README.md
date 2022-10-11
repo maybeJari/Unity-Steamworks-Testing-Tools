@@ -30,39 +30,8 @@ Make sure you are in the play mode when using these tools.
 - [Odin Inspector Plugin](https://odininspector.com)
 
 Make sure to correctly set up your SteamIntegration Script.
-<code>using System;
-using System.Diagnostics;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using Debug = UnityEngine.Debug;
-using Steamworks;
-
-public class SteamIntegration : MonoBehaviour
-{
-    void Start()
-    {
-        try
-        {
-            SteamClient.Init(appid, true);
-        }
-        catch (Exception e)
-        {
-            Debug.Log(e);
-        }
-        LoadItemDefinitions();
-    }
-
-    void Update()
-    {
-        SteamClient.RunCallbacks();
-    }
-
-    void OnApplicationQuit()
-    {
-        SteamClient.Shutdown();
-    }
-}</code>
+<img src="https://cdn.discordapp.com/attachments/1003454758981476422/1029300609532313600/devenv_IrDnI4rdtw.png">
+- [Download Code](https://pastebin.com/dl/zkgn8hMB)
 
 <!-- IMAGES -->
 
